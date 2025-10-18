@@ -24,4 +24,5 @@ public class Swap2Strings {
         System.out.println("str2: " + str2);
 
     }
+    //submitted by Stephanie Sanchez
 }

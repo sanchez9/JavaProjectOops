@@ -18,3 +18,5 @@ public class NumberOfWords {
     }
 
 }
+
+//submitted by Stephanie Sanchez
